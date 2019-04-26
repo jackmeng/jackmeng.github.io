@@ -1,2 +1,2 @@
-# jiekemeng.github.io
-杰克梦的博客
+# jackmeng.github.io
+杰克梦的个人博客
